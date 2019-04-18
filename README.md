@@ -6,6 +6,6 @@ We want you to have something about as easy to use and install but it should:
 - Be written in python
 - Uses HCaptcha instead of recaptcha
 - Has good tests and documentation.
-
+- Your solution must be cloud agnostic. The above solution uses api gateway and lambda, and we want something which is agnostic of cloud technology.
 
 It probably makes sense to reuse an existing bot framework so you don’t have to do it all yourself.
