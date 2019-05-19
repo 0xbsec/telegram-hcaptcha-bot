@@ -13,17 +13,15 @@ It probably makes sense to reuse an existing bot framework so you don’t have t
 
 # Screenshot
 
+## Workflow
+
+![](screenshots/workflow.gif)
+
 ## Screenshots
 
 | Landing page  | Verified | Failed to verify  |
 |:-------------:|:-------------:|:-----:|
 | ![](screenshots/landing.jpg)  | ![](screenshots/verified.jpg) | ![](screenshots/failed_to_verify.jpg) |
-
-## Workflow example
-
-**Please click to view video**
-
-[![](http://img.youtube.com/vi/5O9fmLiUWFw/0.jpg)](http://www.youtube.com/watch?v=5O9fmLiUWFw "")
 
 # Documentation
 
